@@ -1,8 +1,11 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Hi😁&fontColor=000000&fontSize=80)
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=hi😁&fontSize=80&fontColor=000000" />
+</div>
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=occultism22)](https://solved.ac/occultism22/)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Hi😁&fontColor=000000&fontSize=80)
 -->
 
 
