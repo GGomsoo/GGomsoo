@@ -55,7 +55,6 @@
   <img alt="jira" src="https://img.shields.io/badge/jira-logo?style=for-the-badge&logo=jira&logoColor=0052CC&color=20232a">
   <img alt="mattermost" src="https://img.shields.io/badge/mattermost-logo?style=for-the-badge&logo=mattermost&logoColor=0058CC&color=20232a">
 
-  <!--
   <h3>📫 Contact</h3>
   <a href="mailto:occultism22@naver.com">
     <img alt="naver" src="https://img.shields.io/badge/naver-logo?style=for-the-badge&logo=naver&logoColor=03C75A&color=20232a">
@@ -63,13 +62,11 @@
   <a href="mailto:occultism9487@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=EA4335&color=20232a">
   </a>
-  -->
 
   <br/>
   <br/>
   <br/>
 
-  <!--
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=ggomsoo&show_icons=true&theme=dark"
@@ -79,7 +76,20 @@
       srcset="https://github-readme-stats.vercel.app/api?username=ggomsoo&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ggomsoo&show_icons=true" />
+  </picture>
+
+<!--
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ggomsoo"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ggomsoo"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggomsoo&layout=compact" />
   </picture>
   -->
   
