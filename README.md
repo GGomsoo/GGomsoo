@@ -6,7 +6,7 @@
 <!-- Body -->
 <div align="center">
   <h3>🖥 Tech</h3>
-  <img alt="Static Badge" src="https://img.shields.io/badge/react&logo=react">
+  <img alt="react" src="https://img.shields.io/badge/react-blue?logo=react">
 </div>
 
 
