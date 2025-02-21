@@ -4,7 +4,10 @@
 </div>
 
 <!-- Body -->
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/React.svg" />
+<div>
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/React.svg" />
+</div>
+
 
 
 <!--
