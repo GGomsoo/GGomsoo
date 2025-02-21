@@ -4,8 +4,10 @@
 </div>
 
 <!-- Body -->
-<div>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/React.svg" />
+<div align="center">
+  <h3>🖥 Tech</h3>
+  <img alt="react" src="https://img.shields.io/badge/react">
+
 </div>
 
 
