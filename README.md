@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi😁)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi😁&fontColor=000000)
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=occultism22)](https://solved.ac/occultism22/)
