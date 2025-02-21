@@ -17,7 +17,6 @@
   
   <br/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=Javascript&logoColor=F7DF1E&color=20232a">
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-logo?style=for-the-badge&logo=typescript&logoColor=3178C6&color=20232a">
   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind_css-logo?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&color=20232a">
 
   <br/>
@@ -27,6 +26,7 @@
   
   <h3>📚 Studying</h3>
   <img alt="next-js" src="https://img.shields.io/badge/next-logo?style=for-the-badge&logo=nextdotjs&logoColor=white&color=20232a">
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-logo?style=for-the-badge&logo=typescript&logoColor=3178C6&color=20232a">
   <img alt="react-native" src="https://img.shields.io/badge/react_native-logo?style=for-the-badge&color=20232a">
   <br/>
   
