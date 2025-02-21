@@ -3,9 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=hi😁&fontSize=80&fontColor=000000" />
 </div>
 
+<!-- Body -->
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/React.svg" />
+
+
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=occultism22)](https://solved.ac/occultism22/)
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Hi😁&fontColor=000000&fontSize=80)
 -->
 
 
