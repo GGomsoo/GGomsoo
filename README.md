@@ -6,7 +6,7 @@
 <!-- Body -->
 <div align="center">
   <h3>🖥 Tech</h3>
-  <img alt="react" src="https://img.shields.io/badge/react?logo=react-20232a?logoColor=61DAFB">
+  <img alt="react" src="https://img.shields.io/badge/react?logo=react-20232a?logoColor=#61DAFB">
 </div>
 
 
