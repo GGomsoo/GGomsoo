@@ -1,44 +1,44 @@
-<div align="center">
+<div>
   <!-- Header -->
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0079FF&height=240&section=header&text=hi😁&fontSize=80&fontColor=000000" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0079FF&height=240&section=header&text=hi👨‍💻&fontSize=40&fontColor=000000" />
   </div>
 
   <!-- Body -->
   <h3>🖥 Tech</h3>
-  <img alt="python" src="https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&logoColor=3776AB&color=20232a">
-  <img alt="django" src="https://img.shields.io/badge/django-logo?style=for-the-badge&logo=django&logoColor=278A63&color=20232a">
+<!--   <img alt="python" src="https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&logoColor=3776AB&color=20232a"> -->
+<!--   <img alt="django" src="https://img.shields.io/badge/django-logo?style=for-the-badge&logo=django&logoColor=278A63&color=20232a"> -->
   <br/>
   
   <img alt="html5" src="https://img.shields.io/badge/html5-logo?style=for-the-badge&logo=html5&logoColor=E34F26&color=20232a">
   <img alt="css3" src="https://img.shields.io/badge/css3-logo?style=for-the-badge&logo=css3&logoColor=1572B6&color=20232a">
   <img alt="react" src="https://img.shields.io/badge/react-logo?style=for-the-badge&logo=React&logoColor=61DAFB&color=20232a">
-  <img alt="vue" src="https://img.shields.io/badge/vue-logo?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=20232a">
+<!--   <img alt="vue" src="https://img.shields.io/badge/vue-logo?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=20232a"> -->
   
   <br/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=Javascript&logoColor=F7DF1E&color=20232a">
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-logo?style=for-the-badge&logo=typescript&logoColor=3178C6&color=20232a">
   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind_css-logo?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&color=20232a">
 
   <br/>
   <img alt="react-query" src="https://img.shields.io/badge/react--query-logo?style=for-the-badge&logo=reactquery&logoColor=FF4154&color=20232a">
   <img alt="zustand" src="https://img.shields.io/badge/zustand-logo?style=for-the-badge&logoColor=FF4154&color=20232a">
-  <img alt="redux" src="https://img.shields.io/badge/redux-logo?style=for-the-badge&logo=redux&logoColor=764ABC&color=20232a">
+  <!-- <img alt="redux" src="https://img.shields.io/badge/redux-logo?style=for-the-badge&logo=redux&logoColor=764ABC&color=20232a"> -->
   
   <h3>📚 Studying</h3>
   <img alt="next-js" src="https://img.shields.io/badge/next-logo?style=for-the-badge&logo=nextdotjs&logoColor=white&color=20232a">
   <img alt="react-native" src="https://img.shields.io/badge/react_native-logo?style=for-the-badge&color=20232a">
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-logo?style=for-the-badge&logo=typescript&logoColor=3178C6&color=20232a">
   <br/>
   
   <img alt="styled-components" src="https://img.shields.io/badge/styled--components-logo?style=for-the-badge&logo=styledcomponents&logoColor=DB7093&color=20232a">
-  <img alt="emotion-js" src="https://img.shields.io/badge/emotion-logo?style=for-the-badge&logo=emotion&logoColor=EA4335&color=20232a">
+  <img alt="emotion-js" src="https://img.shields.io/badge/emotion_JS-logo?style=for-the-badge&logo=emotion&logoColor=EA4335&color=20232a">
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-logo?style=for-the-badge&logo=shadcnui&logoColor=white&color=20232a">
 
   
   <h3>⭐ Interesting</h3>
   <img alt="github-action" src="https://img.shields.io/badge/github_actions-logo?style=for-the-badge&logo=githubactions&logoColor=2088FF&color=20232a">
   <img alt="vercel" src="https://img.shields.io/badge/vercel-logo?style=for-the-badge&logo=vercel&logoColor=white&color=20232a">
   <img alt="jest" src="https://img.shields.io/badge/jest-logo?style=for-the-badge&logo=jest&logoColor=C21325&color=20232a">
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-logo?style=for-the-badge&logo=shadcnui&logoColor=white&color=20232a">
   
   <h3>🛠️ Tools</h3>
   <img alt="vscode" src="https://img.shields.io/badge/vscode-logo?style=for-the-badge&logo=vscode&logoColor=764ABC&color=20232a">
@@ -79,7 +79,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ggomsoo&show_icons=true" />
   </picture>
 
-<!--
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ggomsoo"
@@ -91,7 +90,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggomsoo&layout=compact" />
   </picture>
-  -->
   
   <div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0079FF&height=240&section=footer" />
