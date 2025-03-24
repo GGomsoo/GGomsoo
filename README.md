@@ -1,7 +1,7 @@
 <div>
   <!-- Header -->
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0079FF&height=240&section=header&text=hi👨‍💻&fontSize=40&fontColor=000000" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0079FF&height=240&section=header&text=프론트엔드%20개발자%20박종혁입니다🙇‍♂️&fontSize=28&fontColor=000000" />
   </div>
 
   <!-- Body -->
