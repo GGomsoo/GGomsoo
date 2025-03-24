@@ -6,18 +6,18 @@
 
   <!-- Body -->
   <h3>🖥 Tech</h3>
-  <img alt="python" src="https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&logoColor=3776AB&color=20232a">
-  <img alt="django" src="https://img.shields.io/badge/django-logo?style=for-the-badge&logo=django&logoColor=278A63&color=20232a">
-  <br/>
+<!--   <img alt="python" src="https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&logoColor=3776AB&color=20232a"> -->
+<!--   <img alt="django" src="https://img.shields.io/badge/django-logo?style=for-the-badge&logo=django&logoColor=278A63&color=20232a"> -->
+<!--   <br/> -->
   
-  <img alt="html5" src="https://img.shields.io/badge/html5-logo?style=for-the-badge&logo=html5&logoColor=E34F26&color=20232a">
-  <img alt="css3" src="https://img.shields.io/badge/css3-logo?style=for-the-badge&logo=css3&logoColor=1572B6&color=20232a">
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=Javascript&logoColor=F7DF1E&color=20232a">
+  <!-- <img alt="html5" src="https://img.shields.io/badge/html5-logo?style=for-the-badge&logo=html5&logoColor=E34F26&color=20232a"> -->
+  <!-- <img alt="css3" src="https://img.shields.io/badge/css3-logo?style=for-the-badge&logo=css3&logoColor=1572B6&color=20232a"> -->
   
-  <br/>
-  <img alt="vue" src="https://img.shields.io/badge/vue-logo?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=20232a">
+  <!-- <br/> -->
   <img alt="react" src="https://img.shields.io/badge/react-logo?style=for-the-badge&logo=React&logoColor=61DAFB&color=20232a">
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=Javascript&logoColor=F7DF1E&color=20232a">
   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind_css-logo?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&color=20232a">
+  <!-- <img alt="vue" src="https://img.shields.io/badge/vue-logo?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=20232a"> -->
 
   <br/>
   <img alt="react-query" src="https://img.shields.io/badge/react--query-logo?style=for-the-badge&logo=reactquery&logoColor=FF4154&color=20232a">
