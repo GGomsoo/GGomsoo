@@ -27,7 +27,7 @@
   <img alt="next-js" src="https://img.shields.io/badge/next-logo?style=for-the-badge&logo=nextdotjs&logoColor=white&color=20232a">
   <img alt="react-native" src="https://img.shields.io/badge/react_native-logo?style=for-the-badge&color=20232a">
   <img alt="typescript" src="https://img.shields.io/badge/typescript-logo?style=for-the-badge&logo=typescript&logoColor=3178C6&color=20232a">
-  <br/>
+<!--   <br/> -->
   
   <!-- <img alt="styled-components" src="https://img.shields.io/badge/styled--components-logo?style=for-the-badge&logo=styledcomponents&logoColor=DB7093&color=20232a"> -->
 <!--   <img alt="emotion-js" src="https://img.shields.io/badge/emotion_JS-logo?style=for-the-badge&logo=emotion&logoColor=EA4335&color=20232a"> -->
